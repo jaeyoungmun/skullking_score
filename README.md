@@ -1,4 +1,4 @@
-# 스컬킹 점수 계산기 (React + TypeScript + Vite)
+# 스컬킹 점수 계산기
 
 ![alt text](public/rule.png)
 
